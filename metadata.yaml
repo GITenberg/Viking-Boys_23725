@@ -1,0 +1,32 @@
+_repo: Viking-Boys_23725
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saxby, Jessie Margaret Edmondston
+    birthdate: 1842
+    deathdate: 1940
+    gutenberg_agent_id: '26000'
+    url: http://www.gutenberg.org/2009/agents/26000
+description: ''
+gutenberg_issued: '2007-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Vikings -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+title: Viking Boys
+url: http://www.gutenberg.org/ebooks/23725
